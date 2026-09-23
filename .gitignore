@@ -37,10 +37,17 @@ out/
 .vscode/
 
 # Eclipse
-.metadata/
 .classpath
 .project
 .settings/
+.metadata/
+
+# Gradle
+.gradle/
+build/
+
+# macOS
+.DS_Store
 
 # macOS
 .DS_Store
