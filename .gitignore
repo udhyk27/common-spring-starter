@@ -35,3 +35,12 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
