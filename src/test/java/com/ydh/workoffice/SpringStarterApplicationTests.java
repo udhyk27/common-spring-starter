@@ -1,4 +1,4 @@
-package com.ydh.springstarter;
+package com.ydh.workoffice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
